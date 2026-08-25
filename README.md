@@ -55,6 +55,3 @@ Fake_News_Detection/
 │   └── fake_news_gui.py
 └── README.md
 ```
-
-**Author:** Meghana R. Naragund
-B.E. Artificial Intelligence & Machine Learning
